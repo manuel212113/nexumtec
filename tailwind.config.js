@@ -36,7 +36,7 @@ module.exports = {
       'darkgrey' : '#747474',
       'faqblue' : '#0861FF',
       'gold' : '#FAAF38',
-      'hoblue': '#0000FF',
+      'hoblue': '#373643',
       'btnblue' : "#267dff",
       'bggrey' : '#DDDDDD',
       'darklogo' : '#373643',
