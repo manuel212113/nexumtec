@@ -20,8 +20,6 @@ export default function Home() {
       <Banner />
       <Aboutus />
       <Dedicated />
-      <Digital />
-      <Wework />
       <Ourteam />
       <Featured />
       <Articles />
