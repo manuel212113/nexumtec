@@ -32,7 +32,7 @@ module.exports = {
       'bluish' : 'rgba(14, 13, 13, 0.75)',
       'testColor' : 'rgba(54, 54, 54, 0.75)',
       'grey': '#909090',
-      'bgblue' : '#02398A',
+      'bgblue' : '#373643',
       'darkgrey' : '#747474',
       'faqblue' : '#0861FF',
       'gold' : '#FAAF38',
