@@ -24,7 +24,7 @@ const Aboutdata: datatype[] = [
     },
     {
         heading: "Android & PHP.",
-        imgSrc: "https://www.cdnlogo.com/logos/a/49/android-2019.svg", // Android logo
+        imgSrc: "https://i.redd.it/some-app-icons-i-wanted-to-share-i-hope-you-enjoy-them-all-v0-ifxfyfa4ze1f1.png?width=3299&format=png&auto=webp&s=0cf1ccbe02d8e6d8253f825feafff20b7003da93", // Android logo
         paragraph: 'Creamos aplicaciones móviles en Android y soluciones web robustas en PHP. Desde sistemas de gestión hasta apps móviles intuitivas, llevamos tus ideas a la realidad.',
         link: 'Saber más'
     },
