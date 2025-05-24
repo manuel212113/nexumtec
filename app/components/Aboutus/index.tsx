@@ -18,13 +18,13 @@ const Aboutdata: datatype[] = [
     },
     {
         heading: "Python Web Scraping.",
-        imgSrc: "https://www.python.org/static/community_logos/python-logo.png",
+        imgSrc: "https://logodownload.org/wp-content/uploads/2019/10/python-logo-1.png",
         paragraph: 'Automatizamos la recolección de datos web utilizando Python y sus librerías más potentes. Extraemos y procesamos información clave para potenciar tu negocio.',
         link: 'Saber más'
     },
     {
         heading: "Android & PHP.",
-        imgSrc: "https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2019.png", // Android logo
+        imgSrc: "https://www.cdnlogo.com/logos/a/49/android-2019.svg", // Android logo
         paragraph: 'Creamos aplicaciones móviles en Android y soluciones web robustas en PHP. Desde sistemas de gestión hasta apps móviles intuitivas, llevamos tus ideas a la realidad.',
         link: 'Saber más'
     },

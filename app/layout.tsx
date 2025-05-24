@@ -5,6 +5,9 @@ import Footer from './components/Footer/index';
 export const metadata = {
   title: 'NexumTec',
   description: 'Tecnología que transforma',
+  icons: {
+    icon: "/favicon.ico", // ruta al favicon
+  },
 }
 
 export default function RootLayout({
